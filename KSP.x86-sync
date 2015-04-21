@@ -1,0 +1,7 @@
+#!/bin/sh
+
+git pull origin master
+"${0%-sync}"
+git add GameData Ships saves
+git commit -m "Update $(date)"
+git push origin master

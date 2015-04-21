@@ -1,0 +1,37 @@
+/*
+
+!.gitignore
+!README.rst
+!UNLICENSE
+!KerbalSync*
+!KSP.x86-sync*
+!KSP.x86_64-sync*
+
+!/GameData
+!/saves
+!/Ships
+
+/GameData/NASAmission
+/GameData/Squad
+
+/saves/scenarios
+/saves/training
+
+/Ships/SPH/Stearwing D45.craft
+/Ships/SPH/Ravenspear Mk3.craft
+/Ships/SPH/Aeris 3A.craft
+/Ships/SPH/Rocket-power VTOL.craft
+/Ships/SPH/Ravenspear Mk1.craft
+/Ships/SPH/Albatross 3.craft
+/Ships/SPH/Ravenspear Mk4.craft
+/Ships/SPH/Aeris 4A.craft
+/Ships/VAB/Z-MAP Satellite Launch Kit.craft
+/Ships/VAB/Orbiter 1A.craft
+/Ships/VAB/Ion-Powered Space Probe.craft
+/Ships/VAB/Learstar A1.craft
+/Ships/VAB/Kerbal 2.craft
+/Ships/VAB/Kerbal X.craft
+/Ships/VAB/Rover + Skycrane.craft
+/Ships/VAB/Space Station Core.craft
+/Ships/VAB/Super-Heavy Lander.craft
+/Ships/VAB/Two-Stage Lander.craft
