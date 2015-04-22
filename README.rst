@@ -1,12 +1,14 @@
 Kerbal Sync Program
 ==================================
 
+*Synchronize your missions in the clouds.*
+
 USAGE
 ----------------------------------
 
-1. Fork https://github.com/kerpak/KerbalSyncProgram to your github account
+1. Fork https://github.com/kerpak/KerbalSyncProgram to your github account:
 
-2. Setup your Kerbal Space Program folder
+2. Setup your Kerbal Space Program folder:
 
 .. code:: bash
 
@@ -26,8 +28,9 @@ USAGE
 REQUIREMENTS
 ----------------------------------
 
-You have to have git_ in your PATH so the scripts can find it. Or, you can edit
-the KerbalSync scripts to add git location to the PATH environment variable.
+You have to have git_ in your PATH so the scripts can find it. Alternatively,
+you can edit the KerbalSync scripts to add git location to the PATH environment
+variable.
 
 .. _git: http://git-scm.com
 
