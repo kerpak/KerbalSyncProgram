@@ -6,7 +6,7 @@ Kerbal Sync Program
 USAGE
 ----------------------------------
 
-1. Fork https://github.com/kerpak/KerbalSyncProgram to your github account:
+1. Fork https://github.com/kerpak/KerbalSyncProgram to your github account.
 
 2. Setup your Kerbal Space Program folder:
 
