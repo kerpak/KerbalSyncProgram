@@ -17,13 +17,7 @@ USAGE
   git remote add origin git@github.com:<yourself>/KerbalSyncProgram.git
   git pull origin master
 
-3. Update Steam launch command:
-
-   On Windows:
-     ``KerbalSync.bat %command%``
-
-   On Linux:
-     ``%command%-sync`` or ``%command%_64-sync``
+3. Update Steam launch command to ``KerbalSync %command%``
 
 REQUIREMENTS
 ----------------------------------
@@ -35,7 +29,7 @@ variable.
 .. _git: http://git-scm.com
 
 LICENSE
-````````````````````````````
+----------------------------------
 
  This is free and unencumbered software released into the public domain.
 
