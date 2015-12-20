@@ -23,7 +23,7 @@ USAGE
      ``KerbalSync %command%``
 
    On Linux:
-     ``./KerbalSync "%command%"``
+     ``./KerbalSync %command%``
 
 REQUIREMENTS
 ----------------------------------
